@@ -1,0 +1,33 @@
+
+.btnstyle{
+background-color: rgb(74,77,128);
+padding-right: 40px;
+padding-left: 40px;
+padding-top: 10px;
+padding-bottom: 10px;
+font-family: 'dm-sans';
+color: white;
+font-size: 20px;
+margin: 5%;
+border: 0px;
+border-radius: 5px;
+}
+.btnstyle:hover{
+color: rgb(74,77,128);
+background-color: white;
+border: solid 1px;
+border-color: rgb(74,77,128);
+}
+.hst{
+    color: rgb(74,77,128);
+}
+.bgst{
+    background-color: rgb(74,77,128);
+}
+body{
+    background:linear-gradient(to right,rgb(122, 122, 246),rgb(244, 148, 165) );
+
+}
+section{
+    background:linear-gradient(to right,rgb(105, 105, 246),rgb(247, 151, 168) );
+}
